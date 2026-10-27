@@ -1,0 +1,1 @@
+var e=Object.freeze([`#334155`,`#475569`,`#64748B`,`#94A3B8`,`#CBD5E1`]);export{e as t};
